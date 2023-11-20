@@ -1,3 +1,3 @@
-# advent-of-code-2022
+# advent-of-code
 
-This is my foray into learning go.
+I am using each year's advent of code to better my Go skills.
