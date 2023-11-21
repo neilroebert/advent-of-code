@@ -20,6 +20,8 @@ vendor/
 # Go workspace file
 go.work
 
+*notes.md
+
 
 ##########
 # Node gitignore template
